@@ -1,0 +1,10 @@
+//!default werde überschr
+@import "overwrite";
+
+//bootstrap integrieren
+@import "../bootstrap/bootstrap.scss";
+
+
+
+//eigene styles hinzufügen
+@import "addstyles";
